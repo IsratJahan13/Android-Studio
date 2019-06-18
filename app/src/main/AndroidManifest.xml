@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.probook.drowerlayout">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity" />
+        <activity android:name=".loginActivity" />
+        <activity android:name=".WellcomeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".FirstSemActivity" />
+        <activity android:name=".adminActivity" />
+        <activity android:name=".aboutActivity" />
+        <activity android:name=".SecondSemActivity" />
+        <activity android:name=".ThirdSemActivity" />
+        <activity android:name=".FourthSemActivity" />
+        <activity android:name=".FifthSemActivity" />
+        <activity android:name=".SixthSemActivity" />
+        <activity android:name=".SeventhSemActivity" />
+        <activity android:name=".EightSemActivity" />
+        <activity android:name=".QuestionActivity" />
+        <activity android:name=".SyllebusActivity" />
+        <activity android:name=".BookActivity"></activity>
+    </application>
+
+</manifest>

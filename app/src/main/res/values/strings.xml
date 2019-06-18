@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">E Library</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string-array name="book_list_1">
+
+        <item>Digital-logic-and-computer-design-by-m-morris-mano-2nd-edition</item>
+        <item>C-programs-for-Algorithm-Design-Course</item>
+        <item>computer_graphics_-_schaum_series</item>
+        <item>Computer_Graphics_C_VersionJava The Complete Reference Ninth Edition</item>
+        <item>Java_-_How_To_Program_-_Ninth_Edition_(2012)</item>
+        <item>Programs-of-different-Algorithms</item>
+        <item>Software Engineering by Somerville</item>
+        <item>Telecommunication-switching-systems-and-networks</item>
+        <item>Algorithm jhjghkjhjhfj by sommerjjnxhghgc hjghcbgh</item>
+        <item>Java_-_How_To_Program_-_Ninth_Edition_(2012)</item>
+        <item>Programs-of-different-Algorithms</item>
+
+
+    </string-array>
+
+    <string-array name="book_list_2">
+
+        <item>Digital-gfgd</item>
+        <item>Algorithm-Design-Course</item>
+        <item>computer_graphics_-_schaum_series</item>
+        <item>Computer_Graphics_C_VersionJava The Complete Reference Ninth Edition</item>
+        <item>Java_Ninth_Edition_(2012)</item>
+        <item>Programs-of-different-Algorithms</item>
+
+    </string-array>
+
+    <string-array name="book_list_3">
+
+        <item>Telecommunication-switching-systems-and-networks</item>
+        <item>Algorithm jhjghkjhjhfj by sommerjjnxhghgc hjghcbgh</item>
+        <item>Java_-_How_To_Program_-_Ninth_Edition_(2012)</item>
+        <item>Programs-of-different-Algorithms</item>
+
+
+    </string-array>
+
+    <string-array name="book_list_4">
+
+        <item>Algorithm</item>
+        <item>How_To_Program_-_Ninth_Edition_(2012)</item>
+        <item>Programs-of-different-Algorithms</item>
+
+
+    </string-array>
+
+    <string-array name="book_list_5">
+
+        <item>C-programs-for-Algorithm-Design-Course</item>
+        <item>computer_graphics_-_schaum_series</item>
+        <item>Computer_Graphics_C_VersionJava The Complete Reference Ninth Edition</item>
+        <item>Telecommunication-switching-systems-and-networks</item>
+        <item>Algorithm jhjghkjhjhfj by sommerjjnxhghgc hjghcbgh</item>
+        <item>Java_-_How_To_Program_-_Ninth_Edition_(2012)</item>
+        <item>Programs-of-different-Algorithms</item>
+
+
+    </string-array>
+
+    <string-array name="book_list_6">
+
+        <item>Programs-of-different-Algorithms</item>
+
+
+    </string-array>
+
+    <string-array name="book_list_7">
+
+        <item>Java_-_How_To_Program_-_Ninth_Edition_(2012)</item>
+        <item>Programs-of-different-Algorithms</item>
+
+    </string-array>
+
+    <string-array name="book_list_8">
+
+        <item>Algorithm jhjghkjhjhfj by sommerjjnxhghgc hjghcbgh</item>
+        <item>Java_-_How_To_Program_-_Ninth_Edition_(2012)</item>
+        <item>Programs-of-different-Algorithms</item>
+
+    </string-array>
+</resources>
